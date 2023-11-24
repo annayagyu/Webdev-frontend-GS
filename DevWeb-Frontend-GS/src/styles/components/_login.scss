@@ -1,0 +1,41 @@
+
+.login{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    .card{
+        margin-top: 5rem;
+        border: 1px solid $purple;
+        background-color: rgba(134, 31, 120, 0.178) ;
+        .login-form{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin: 6rem;
+        }
+
+        .form-img{
+            width: 15rem;
+            margin-bottom: 3rem;
+        }
+        .input{
+            width: 30rem;
+        }
+        .login-button{
+            color: $purple;
+            border: 1px solid $purple;
+        }
+        .buttonarea{
+            display: flex;
+            justify-content: m-2;
+        }
+        @media screen and (max-width: 800px){
+            .login-form{
+                margin: 4rem;
+            }
+            .input{
+                width: 15rem;
+            }
+        }
+    }
+}
