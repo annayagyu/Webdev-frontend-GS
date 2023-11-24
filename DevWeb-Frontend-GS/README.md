@@ -11,8 +11,8 @@ Para testar, siga os passos abaixo:
 
 Para logar no site, se autenticar com os dados :
 
-Email de usuário: admin@admin.com
-Senha: 12345
+Email de usuário: adm@gmail.com
+Senha: 123
 
 Integrante:
 - Anna Heloisa Soto Yagyu RM 550360
